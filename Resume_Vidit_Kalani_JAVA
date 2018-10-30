@@ -1,0 +1,89 @@
+Vidit Kalani									   vkalani88@gmail.com
+10348 S Robin Ln, Oak Creek, WI – 53154								(847) 343-4486
+
+CAREER OBJECTIVE:
+
+Highly skilled and hardworking programming specialist with knowledge in troubleshooting, Java, data encryption, 
+scripting, web technologies, and databases. Seeking a position that will allow me to effectively use my software programming 
+and design skills.
+
+TECHNICAL SKILLS:
+
+•	Intermediate: Java, Android SDK, JavaScript, JQuery, JDBC, MyBatic, JavaScript, JQuery, JSON, , XML, 
+		          SQL Server
+•	Tools: Eclipse, Microsoft Visual Studio
+
+EDUCATION:
+
+Master of Science in Computing in Big Data and Data Analytics				          Jan 2017 – Present 
+Marquette University – Milwaukee, WI
+
+Associate of Applied Science in Software Development 					    Dec 2014 – Sept 2016
+ITT Technical Institute - Greenfield, WI (GPA 3.66)
+
+Bachelor of Engineering in Information Technology 				   	   June 2006 – June 2011
+Parul Institute of Engineering & Technology, Gujrat University – Gujarat, India (GPA 3.50)
+
+EXPERIENCES:
+
+GitHub Account: https://github.com/ViditKalani?tab=repositories
+
+Developed: Library Database 								     May 2018 – Jun 2018
+Language: JDBC, MyBatic, SQL Server
+Description:
+•	Design Entity-Relationship diagram and covert into a Relational schema diagram. 
+•	Developed SQL script that has SQL statements for creating the tables and constraints for the library database system. 
+•	Implement library database system – Admin console using JDBC and Java MyBatis.
+
+Developed: Implement the Client for a Photo-Sharing Application		 	     	     Dec 2015 – Mar 2016
+Responsibilities: Analysis, Designing, and Coding
+Language: JAVA, Android SDK, SQLite
+Description:
+•	An application that allows user to plan a vacation by searching, displaying pictures on Flickr, and launching the calendar
+  program. 
+•	The application notified users when the new pictures were uploaded that met the search criteria based on user’s selected 
+  custom notification method that included vibration and audio notifications.
+•	The user had an ability to write vacation log entries to a SQLite relational database. The database would store the date, 
+  location, description, and path to pictures in the Gallery. 
+•	The users could obtain geolocation data to include in the vacation log entries. 
+
+Developed: kNN (k-Nearest-Neighbor) Model using Wisconsin Breast Cancer Dataset 		     Jan 2018 – May 2018
+Language: R 
+Description:
+•	Performed exploratory data analysis to generate hypotheses about which variables are the best predictors, which involved 
+  scatter plots, box plots, or jitter plots. 
+•	Performed continued forward feature selection for a kNN Model until it resulted in optimized model. 
+ 
+Developed: Recommendation Systems Model 						     Jan 2018 – May 2018
+Language: R 
+Description:
+•	Implemented recommendation system model using MovieLens + IMDb/Rotten Tomatoes Dataset
+•	Build different models and evaluate their predictions using Recommendation Model using the average rating per movie to
+  predict the rating by each user
+
+Developed: Logistic Regression Model 						   	     Jan 2018 – May 2018
+Language: R 
+Description:
+•	Implemented Logistic Regression model using Spam_data Dataset
+•	Build a single model to predict spam vs ham
+•	Using the confusion matrix, calculated the percentage of spam messages erroneously classified as ham and ham messages 
+  erroneously classified as spam.
+
+ WORK EXPERIENCE:
+
+CVS Pharmacy, Wauwatosa WI								         Apr 2017 – Present 
+Position: Customer Service Representative and Shift Supervisor 
+
+Speedway LLC, Milwaukee WI								       Jul 2015 – Apr 2017
+Position: Customer Service Representative and Shift Leader
+
+Azure Knowledge Corporation Pvt Ltd, Ahmedabad, Gujarat, India			       Jan 2011 – Jun 2014
+Position: IT Support, Data Analysis
+Responsibilities: 
+•	Installing and configuring computer hardware operating systems and applications
+•	Monitoring and maintaining computer systems and networks
+•	Troubleshooting system and network problems and diagnosing and solving hardware or software faults 
+•	Interpreting data, analyzing results using excel.
+•	Developing and implementing data analyses, data collection systems and other strategies that optimize statistical 
+  efficiency and quality
+•	Promoted process improvement and provided user training, support and feedback
