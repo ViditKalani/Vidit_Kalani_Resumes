@@ -1,4 +1,4 @@
-# Vidit_Kalani_Coverletter
+# Vidit_Kalani_Cover_Letter
 
 Vidit Kalani
 10348 S Robin Ln
