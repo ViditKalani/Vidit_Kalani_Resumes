@@ -19,4 +19,5 @@ Thank you for your time and consideration. Please do not hesitate to contact me 
 email (vkalani88@gmail.com) with any questions.
 
 Sincerely,
+
 Vidit Kalani
